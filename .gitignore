@@ -1,0 +1,10 @@
+
+#Datasets
+male_players.csv
+
+#Notebooks
+.ipynb_checkpoints/
+__pycache__/
+
+#Visual Studio Code
+.vscode/
