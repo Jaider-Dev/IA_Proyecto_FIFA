@@ -5,6 +5,7 @@ male_players.csv
 #Notebooks
 .ipynb_checkpoints/
 __pycache__/
+.venv/
 
 #Visual Studio Code
 .vscode/
